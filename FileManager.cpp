@@ -1,4 +1,5 @@
 #include "FileManager.h"
+#include <sstream>
 
 bool FileManager::write_file(const std::string& file_path, const std::string& content) {
     std::lock_guard<std::mutex> lock(file_mutex);
