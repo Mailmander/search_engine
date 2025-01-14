@@ -1,0 +1,3 @@
+C:/Users/IVA-PC/CLionProjects/Cursach/cmake-build-debug/CMakeFiles/Cursach.dir
+C:/Users/IVA-PC/CLionProjects/Cursach/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/IVA-PC/CLionProjects/Cursach/cmake-build-debug/CMakeFiles/rebuild_cache.dir

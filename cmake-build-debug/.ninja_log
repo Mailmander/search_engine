@@ -1,0 +1,9 @@
+# ninja log v5
+1321	1465	7585627961274603	Cursach.exe	d37312e94532c21f
+24	1703	7585623426172110	CMakeFiles/Cursach.dir/main.cpp.obj	765e82b884fc8894
+6	968	7571105632189779	CMakeFiles/Cursach.dir/ThreadPool.cpp.obj	44eddc2e3f12e378
+13	1321	7585627960095008	CMakeFiles/Cursach.dir/InvertedIndex.cpp.obj	acf014d38e138dca
+19	1443	7584915837189864	CMakeFiles/Cursach.dir/FileManager.cpp.obj	10777df9f5545b7f
+9	1340	7584151320393799	CMakeFiles/Cursach.dir/Server.cpp.obj	d430b2a38d5e1f61
+2	136	7585705514311802	build.ninja	65518d470cd86a0d
+2	1324	7585040067816968	CMakeFiles/Cursach.dir/HTTPServer.cpp.obj	e192137dd25068fa
